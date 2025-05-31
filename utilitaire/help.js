@@ -291,37 +291,37 @@ module.exports = {
                         {
                             label: 'Utilitaire',
                             value: 'help',
-                            emoji: "1247866358645919745",
+                            emoji: "1378348045552455710",
                         },
                         {
                             label: 'Antiraid',
                             value: 'antiraid',
-                            emoji: "1247866358645919745",
+                            emoji: "1378348045552455710",
                         },
                         {
                             label: 'Logs',
                             value: 'logs',
-                            emoji: "1247866358645919745",
+                            emoji: "1378348045552455710",
                         },
                         {
                             label: 'Gestion Serveur',
                             value: 'gestion',
-                            emoji: "1247866358645919745",
+                            emoji: "1378348045552455710",
                         },
                         {
                             label: 'Modération',
                             value: 'moderation',
-                            emoji: "1247866358645919745",
+                            emoji: "1378348045552455710",
                         },
                         {
                             label: 'Owner',
                             value: 'owner',
-                            emoji: '1247866358645919745',
+                            emoji: '1378348045552455710',
                         },
                         {
                             label: 'Propriétaire',
                             value: 'own',
-                            emoji: '1247866358645919745',
+                            emoji: '1378348045552455710',
                         },
                     ])
             )
