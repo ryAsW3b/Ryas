@@ -83,7 +83,7 @@ module.exports = {
                         .setTitle(`Configurer le rôle`)
                         .setDescription("**Sélectionnez l'option qui vous correspond**")
                         .setColor(color)
-                        .setImage('https://cdn.discordapp.com/attachments/904084986536276059/991543407694585866/role.gif')
+                        .setImage('https://i.pinimg.com/736x/ea/9b/c3/ea9bc3d1b39e8ec56f2cf3c8205f3895.jpg')
 
                     const antichanneldelete = new MessageEmbed()
                         .setTitle(`Configurer le statut`)
